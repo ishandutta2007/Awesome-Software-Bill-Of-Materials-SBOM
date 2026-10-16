@@ -2,7 +2,7 @@
 
 # Awesome-Software-Bill-Of-Materials-SBOM
 
-# Top Software Bill of Materials (SBOM) Tools Ecosystem
+## Top Software Bill of Materials (SBOM) Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Software Composition Analysis, CycloneDX/SPDX Generation & Vulnerability Intelligence*  
