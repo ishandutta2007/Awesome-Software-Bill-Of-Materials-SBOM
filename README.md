@@ -315,3 +315,12 @@ Thank you for exploring and bookmarking **Awesome-Software-Bill-Of-Materials-SBO
 <p align="center">
   <b>Curated with care for security engineers, DevSecOps teams, OSPO directors, and software architects worldwide. 🛡️✨</b>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Software-Bill-Of-Materials-SBOM&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Software-Bill-Of-Materials-SBOM_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Software-Bill-Of-Materials-SBOM_growth.svg">
+  </picture>
+</a>
